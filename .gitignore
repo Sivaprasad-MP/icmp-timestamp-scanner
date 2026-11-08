@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.xlsx
+*.tmp
+vlans.csv
